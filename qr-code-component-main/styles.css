@@ -1,9 +1,10 @@
 body {
   background-color: hsl(212, 45%, 89%);
+  
 }
 
 .cards {
-    margin-top: 100px;
+  margin-top: 100px;
 }
 
 .card {
@@ -12,7 +13,7 @@ body {
   width: 350px;
   margin: auto;
   padding-top: 10px;
-  padding-left: ;
+  padding-left: auto;
   padding-bottom: 0;
   padding-right: auto;
   border-radius: 25px;
@@ -36,26 +37,24 @@ img {
 }
 
 h3 {
+
+  font-family: "Outfit", sans-serif;
   padding-left: 40px;
   padding-right: 40px;
-
-  font-family: 'Outfit', sans-serif;
+  color: hsl(218, 44%, 22%) ;
   
-  font-style: bold;
 }
 
 p {
+  font-family: "Outfit", sans-serif;
+  font-size: 15px;
   padding-top: 10px;
   padding-left: 50px;
   padding-right: 50px;
   padding-bottom: 10px;
-  font-family: 'Outfit', sans-serif;
-  font-weight: 400;
-
-
+  color:  hsl(220, 15%, 55%);
 }
 
 .card-description {
   text-align: center;
-  margin: ;
 }
