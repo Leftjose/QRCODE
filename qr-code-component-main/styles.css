@@ -1,3 +1,33 @@
 body {
     background-color: 	#E8E8E8;
 }
+
+.card {
+    background-color: #FFFF;
+    height: 600px;
+    width: 600px;
+
+}
+
+.qr-image {
+    text-align: center;
+}
+
+img {
+    border-radius: 30px;
+    height: 350px;
+    width: 300px;
+    
+}
+
+
+
+.card-title {
+    text-align: center;
+}
+
+
+.card-description {
+    text-align: center;
+}
+
